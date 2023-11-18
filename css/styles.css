@@ -182,7 +182,7 @@ margin-top: -10vw;
 }
 
 
-@media screen and (min-width: 375px){
+@media screen and (min-width: 24em){
     .hero-bg-1{
         display: none;
     }
@@ -221,7 +221,7 @@ margin-top: -10vw;
     }
 }
 
-@media screen and (min-width: 768px){
+@media screen and (min-width: 50em){
 
     .section-layer-2{
         height: 120vh;
@@ -278,7 +278,7 @@ margin-top: -10vw;
 
 }
 
-@media screen and (min-width: 1440px){
+@media screen and (min-width: 90em){
     .section-layer-2 {
         height: 110vh;
     }
